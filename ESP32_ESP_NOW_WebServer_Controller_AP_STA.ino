@@ -19,7 +19,7 @@ Credits:
 #define ON_Board_LED 2  
 
 // Replace with your WiFi Router network credentials.
-const char* wifi_network_ssid = "Guest-4311";
+const char* wifi_network_ssid = "Guest-WiFi";
 const char* wifi_network_password = "12345678abcde";
 
 //ESP32 Controller Soft Access Point Config.
